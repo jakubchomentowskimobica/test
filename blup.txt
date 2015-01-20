@@ -1,1 +1,3 @@
-Test of new review tool. Next step is to check if it is possible to slave automaticly some remote repository.
+Test of new review tool. Next step is to check if it is possible to slave automaticly some remote repository
+
+Test posluszenstwa
